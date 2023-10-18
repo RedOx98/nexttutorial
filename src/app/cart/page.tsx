@@ -38,7 +38,7 @@ const CartPage = () => {
                 </div>
             </div>
             {/* PAYMENT CONTAINER */}
-            <div className="h-1/2 p-4 bg-fuchsia-50 flex flex-col gap-4 justify-center lg:h-full lg:w-1/3 xl:w-1/2 lg:px-20 xl:px-40 xl:text-xl xl:gap-6">
+            <div className="h-1/2 p-4 bg-fuchsia-50 flex flex-col gap-4 justify-center lg:h-full lg:w-1/3 xl:w-1/2 lg:px-20 xl:px-40 2xl:text-xl xl:gap-6">
                 <div className="">
                     <span className="flex justify-between">Subtotal (3 items)</span>
                     <span className="">$81.70</span>

@@ -14,7 +14,7 @@ const OrdersPage = () => {
                     </tr>
                 </thead>
                 <tbody className="">
-                    <tr className="text-sm md:text-base bg-red-50 ">
+                    <tr className="text-sm md:text-base bg-red-50">
                         
                             <td className="hidden md:block py-6 px-1">132242345235</td>
                             <td className="py-6 px-1">19.07.2023</td>

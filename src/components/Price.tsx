@@ -34,7 +34,7 @@ const Price = ({bill, id, options}: Props) => {
     }), [payment.quantity, payment.selected, options, bill])
     return (
         <div className="flex flex-col gap-4 ">
-            <h2 className="text-2xl font-bold">${payment?.total.toFixed(2)}</h2>
+            <h2 className="text-2xl font-bold">${payment?.pay?.toFixed(2)}</h2>
             {/* OPTIONS CONTAINER */}
             <div className="flex gap-4">
                 {
